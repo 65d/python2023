@@ -12,3 +12,5 @@
 | 8    | Not Ready        |
 | 9    | In progress      |
 | 10   | Finished         |
+| 11   | Finished         |
+| 12   | Finished         |

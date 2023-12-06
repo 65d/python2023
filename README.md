@@ -1,4 +1,4 @@
-# Python
+# Labs status board
 
 | Lab  | Status           |
 |------|------------------|

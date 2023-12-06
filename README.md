@@ -8,7 +8,7 @@
 | 4    | ❌ Not Ready        |
 | 5    | ✅ Finished (lab 3) |
 | 6    | ❌ Not Ready        |
-| 7    | ✅ Finished         |
+| 7    | ✅ Finished 🟡        |
 | 8    | ❌ Not Ready        |
 | 9    | ❌ Not Ready        |
 | 10   | ✅ Finished         |

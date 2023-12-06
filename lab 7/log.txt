@@ -1,0 +1,6 @@
+{'timestamp': datetime.datetime(2023, 12, 6, 19, 17, 28, 760651), 'functiont': 'multiply', 'arguments': (3, 4), 'result': 12}
+{'timestamp': datetime.datetime(2023, 12, 6, 19, 17, 28, 760651), 'functiont': 'multiply', 'arguments': (5, 6), 'result': 30}
+{'timestamp': datetime.datetime(2023, 12, 6, 19, 17, 39, 611665), 'functiont': 'multiply', 'arguments': (4, 9), 'result': 36}
+{'timestamp': datetime.datetime(2023, 12, 6, 19, 17, 51, 501050), 'functiont': 'multiply', 'arguments': (3, 4), 'result': 12}
+{'timestamp': datetime.datetime(2023, 12, 6, 19, 17, 51, 501050), 'functiont': 'multiply', 'arguments': (5, 6), 'result': 30}
+{'timestamp': datetime.datetime(2023, 12, 6, 19, 17, 51, 501050), 'functiont': 'multiply', 'arguments': (4, 9), 'result': 36}

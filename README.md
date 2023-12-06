@@ -7,8 +7,8 @@
 | 3    | Not Ready        |
 | 4    | Finished         |
 | 5    | Not Ready        |
-| 6    | Finished         |
-| 7    | Not Ready        |
+| 6    | Not Ready        |
+| 7    | Finished         |
 | 8    | Not Ready        |
 | 9    | In progress      |
 | 10   | Finished         |
